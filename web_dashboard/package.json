@@ -1,0 +1,37 @@
+{
+  "name": "mcp-swarm-dashboard",
+  "version": "1.0.0",
+  "description": "Real-time dashboard for MCP-Coordinated Swarm Intelligence",
+  "main": "server/app.js",
+  "scripts": {
+    "start": "node server/app.js",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "nodemon server/app.js",
+    "client": "cd client && npm start",
+    "build": "cd client && npm run build",
+    "install-all": "npm install && cd client && npm install"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2",
+    "cors": "^2.8.5",
+    "helmet": "^7.0.0",
+    "morgan": "^1.10.0",
+    "dotenv": "^16.3.1",
+    "ws": "^8.13.0",
+    "axios": "^1.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "concurrently": "^8.2.0"
+  },
+  "keywords": [
+    "uav",
+    "swarm",
+    "reinforcement-learning",
+    "mcp",
+    "dashboard"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}

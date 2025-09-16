@@ -1,0 +1,1075 @@
+{
+  "baseline_results": [
+    {
+      "episode": 0,
+      "reward": 22.649278061405305,
+      "length": 152,
+      "coverage": 1.08,
+      "battery_efficiency": 99.05840829871904,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 1,
+      "reward": 22.36156537706651,
+      "length": 171,
+      "coverage": 1.3599999999999999,
+      "battery_efficiency": 98.91500220506732,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 2,
+      "reward": 25.84665376463562,
+      "length": 185,
+      "coverage": 1.34,
+      "battery_efficiency": 98.82137170073304,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 3,
+      "reward": 17.79415532369407,
+      "length": 157,
+      "coverage": 1.2,
+      "battery_efficiency": 99.0118173483699,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 4,
+      "reward": 28.45979464210403,
+      "length": 177,
+      "coverage": 1.2,
+      "battery_efficiency": 98.87680588759335,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 5,
+      "reward": 18.37755260700375,
+      "length": 157,
+      "coverage": 1.2,
+      "battery_efficiency": 99.00606756053344,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 6,
+      "reward": 18.426616964861214,
+      "length": 155,
+      "coverage": 1.09,
+      "battery_efficiency": 99.03623848297559,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 7,
+      "reward": 33.95497798525966,
+      "length": 184,
+      "coverage": 1.3,
+      "battery_efficiency": 98.83520644162854,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 8,
+      "reward": 22.612680980314884,
+      "length": 195,
+      "coverage": 1.15,
+      "battery_efficiency": 98.77323579648659,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 9,
+      "reward": 27.899203854429803,
+      "length": 196,
+      "coverage": 1.28,
+      "battery_efficiency": 98.75920333892756,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 10,
+      "reward": 25.054871469500906,
+      "length": 165,
+      "coverage": 1.27,
+      "battery_efficiency": 98.95255436061153,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 11,
+      "reward": 38.268751290904724,
+      "length": 187,
+      "coverage": 1.29,
+      "battery_efficiency": 98.83182508505205,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 12,
+      "reward": 23.89179113899657,
+      "length": 166,
+      "coverage": 1.09,
+      "battery_efficiency": 98.95898276503955,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 13,
+      "reward": 19.96586712321661,
+      "length": 150,
+      "coverage": 1.17,
+      "battery_efficiency": 99.06244748811072,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 14,
+      "reward": 25.278705870613784,
+      "length": 171,
+      "coverage": 1.15,
+      "battery_efficiency": 98.92050216733205,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 15,
+      "reward": 25.665830892793984,
+      "length": 170,
+      "coverage": 1.16,
+      "battery_efficiency": 98.92253466349402,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 16,
+      "reward": 23.005855724404665,
+      "length": 170,
+      "coverage": 1.15,
+      "battery_efficiency": 98.94797484943919,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 17,
+      "reward": -162.67777979154675,
+      "length": 183,
+      "coverage": 1.2,
+      "battery_efficiency": 98.86131261449854,
+      "communication_reliability": 0.0,
+      "collision_count": 183,
+      "mission_success": true
+    },
+    {
+      "episode": 18,
+      "reward": 26.917288388902488,
+      "length": 180,
+      "coverage": 1.04,
+      "battery_efficiency": 98.86993549390269,
+      "communication_reliability": 0.3333333333333333,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 19,
+      "reward": 22.84934439279186,
+      "length": 174,
+      "coverage": 1.08,
+      "battery_efficiency": 98.91404823443598,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 20,
+      "reward": 21.585530758735278,
+      "length": 172,
+      "coverage": 1.15,
+      "battery_efficiency": 98.92401603915853,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 21,
+      "reward": 18.219716204225413,
+      "length": 139,
+      "coverage": 1.1199999999999999,
+      "battery_efficiency": 99.13105182895974,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 22,
+      "reward": 20.149750418641343,
+      "length": 156,
+      "coverage": 1.29,
+      "battery_efficiency": 99.02724627334193,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 23,
+      "reward": 15.86529959175729,
+      "length": 137,
+      "coverage": 1.08,
+      "battery_efficiency": 99.15766125370283,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 24,
+      "reward": 21.638050657935757,
+      "length": 184,
+      "coverage": 1.24,
+      "battery_efficiency": 98.84592748878126,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 25,
+      "reward": 24.091713699688572,
+      "length": 188,
+      "coverage": 1.15,
+      "battery_efficiency": 98.81443457281154,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 26,
+      "reward": -138.5762081717397,
+      "length": 163,
+      "coverage": 1.1199999999999999,
+      "battery_efficiency": 98.97909097092173,
+      "communication_reliability": 0.0,
+      "collision_count": 163,
+      "mission_success": true
+    },
+    {
+      "episode": 27,
+      "reward": 24.826311821541406,
+      "length": 182,
+      "coverage": 1.17,
+      "battery_efficiency": 98.8583067117659,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 28,
+      "reward": 27.006360325364117,
+      "length": 185,
+      "coverage": 1.1199999999999999,
+      "battery_efficiency": 98.84248824521141,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 29,
+      "reward": 19.54097211511958,
+      "length": 177,
+      "coverage": 1.15,
+      "battery_efficiency": 98.9032322888112,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 30,
+      "reward": 23.700163889173254,
+      "length": 162,
+      "coverage": 1.15,
+      "battery_efficiency": 98.98866598255093,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 31,
+      "reward": 15.44199529628745,
+      "length": 134,
+      "coverage": 1.08,
+      "battery_efficiency": 99.16936788274218,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 32,
+      "reward": 23.069874221555377,
+      "length": 172,
+      "coverage": 1.22,
+      "battery_efficiency": 98.91729198578712,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 33,
+      "reward": 19.058632439455497,
+      "length": 171,
+      "coverage": 1.08,
+      "battery_efficiency": 98.93001426582163,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 34,
+      "reward": 16.974084463880104,
+      "length": 140,
+      "coverage": 1.01,
+      "battery_efficiency": 99.13703188485789,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 35,
+      "reward": 19.900962409002066,
+      "length": 175,
+      "coverage": 1.08,
+      "battery_efficiency": 98.90549948001183,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 36,
+      "reward": 18.451027101954608,
+      "length": 156,
+      "coverage": 1.15,
+      "battery_efficiency": 99.01812244842694,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 37,
+      "reward": 15.049133411008906,
+      "length": 132,
+      "coverage": 1.01,
+      "battery_efficiency": 99.1896470530978,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 38,
+      "reward": 17.81009494612804,
+      "length": 144,
+      "coverage": 1.01,
+      "battery_efficiency": 99.10135379255576,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 39,
+      "reward": 26.961013029367678,
+      "length": 176,
+      "coverage": 1.23,
+      "battery_efficiency": 98.89552857595271,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 40,
+      "reward": 28.607928716446533,
+      "length": 175,
+      "coverage": 1.15,
+      "battery_efficiency": 98.88930695112307,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 41,
+      "reward": 18.076535912807007,
+      "length": 153,
+      "coverage": 1.0999999999999999,
+      "battery_efficiency": 99.03879681573206,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 42,
+      "reward": 17.65098824455675,
+      "length": 153,
+      "coverage": 1.05,
+      "battery_efficiency": 99.05090355919448,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 43,
+      "reward": 18.552887972197112,
+      "length": 162,
+      "coverage": 1.17,
+      "battery_efficiency": 98.9690615567723,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 44,
+      "reward": 21.886677491401922,
+      "length": 175,
+      "coverage": 1.1900000000000002,
+      "battery_efficiency": 98.88901423658243,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 45,
+      "reward": 17.88537817158701,
+      "length": 156,
+      "coverage": 1.08,
+      "battery_efficiency": 99.0280652024809,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 46,
+      "reward": 20.878026179298885,
+      "length": 147,
+      "coverage": 1.16,
+      "battery_efficiency": 99.07704883876791,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 47,
+      "reward": 15.82012928639669,
+      "length": 140,
+      "coverage": 1.11,
+      "battery_efficiency": 99.12949490283351,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 48,
+      "reward": 21.6960342760163,
+      "length": 166,
+      "coverage": 1.27,
+      "battery_efficiency": 98.96165226515845,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 49,
+      "reward": 23.86352437426822,
+      "length": 174,
+      "coverage": 1.22,
+      "battery_efficiency": 98.91393318544951,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    }
+  ],
+  "mcp_results": [
+    {
+      "episode": 0,
+      "reward": 22.96513004662495,
+      "length": 171,
+      "coverage": 1.15,
+      "battery_efficiency": 99.02122834283591,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 1,
+      "reward": 18.26643586759337,
+      "length": 158,
+      "coverage": 1.21,
+      "battery_efficiency": 99.09516371894536,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 2,
+      "reward": 17.41721631253255,
+      "length": 151,
+      "coverage": 1.06,
+      "battery_efficiency": 99.13984312935466,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 3,
+      "reward": 21.10526282142509,
+      "length": 164,
+      "coverage": 1.15,
+      "battery_efficiency": 99.06623671600667,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 4,
+      "reward": 20.11809765570162,
+      "length": 170,
+      "coverage": 1.17,
+      "battery_efficiency": 99.02880973942135,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 5,
+      "reward": 20.356130876047246,
+      "length": 167,
+      "coverage": 1.08,
+      "battery_efficiency": 99.04749027573199,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 6,
+      "reward": 22.609500087623662,
+      "length": 173,
+      "coverage": 1.24,
+      "battery_efficiency": 99.00578085331595,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 7,
+      "reward": 18.759192632197085,
+      "length": 157,
+      "coverage": 1.2,
+      "battery_efficiency": 99.10823332609607,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 8,
+      "reward": -134.97815246335895,
+      "length": 160,
+      "coverage": 1.08,
+      "battery_efficiency": 99.08904710400668,
+      "communication_reliability": 0.0,
+      "collision_count": 160,
+      "mission_success": true
+    },
+    {
+      "episode": 9,
+      "reward": 22.8883926115837,
+      "length": 186,
+      "coverage": 1.26,
+      "battery_efficiency": 98.92630436335317,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 10,
+      "reward": -142.67202815678326,
+      "length": 163,
+      "coverage": 1.15,
+      "battery_efficiency": 99.07344689090087,
+      "communication_reliability": 0.0,
+      "collision_count": 163,
+      "mission_success": true
+    },
+    {
+      "episode": 11,
+      "reward": 17.08538666846931,
+      "length": 144,
+      "coverage": 1.15,
+      "battery_efficiency": 99.18185186437016,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 12,
+      "reward": 20.52452957075589,
+      "length": 162,
+      "coverage": 1.2,
+      "battery_efficiency": 99.077960313308,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 13,
+      "reward": 29.36571718230077,
+      "length": 172,
+      "coverage": 1.18,
+      "battery_efficiency": 99.0140533854696,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 14,
+      "reward": 24.120050197801977,
+      "length": 167,
+      "coverage": 1.2,
+      "battery_efficiency": 99.04461196288604,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 15,
+      "reward": 20.060343239859936,
+      "length": 158,
+      "coverage": 1.2,
+      "battery_efficiency": 99.10027366999951,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 16,
+      "reward": 17.183100058453963,
+      "length": 144,
+      "coverage": 1.06,
+      "battery_efficiency": 99.18263929481915,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 17,
+      "reward": 21.088896077497896,
+      "length": 185,
+      "coverage": 1.28,
+      "battery_efficiency": 98.93835717566427,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 18,
+      "reward": 22.4934014701655,
+      "length": 168,
+      "coverage": 1.26,
+      "battery_efficiency": 99.04227065574699,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 19,
+      "reward": 22.444652392317362,
+      "length": 174,
+      "coverage": 1.3,
+      "battery_efficiency": 99.0043240937779,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 20,
+      "reward": 26.599548685506512,
+      "length": 162,
+      "coverage": 1.2,
+      "battery_efficiency": 99.07375731794146,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 21,
+      "reward": 22.200626960643632,
+      "length": 160,
+      "coverage": 1.15,
+      "battery_efficiency": 99.08766850402272,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 22,
+      "reward": 26.16927113600821,
+      "length": 178,
+      "coverage": 1.28,
+      "battery_efficiency": 98.9773659326304,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 23,
+      "reward": 21.993738082037577,
+      "length": 148,
+      "coverage": 1.18,
+      "battery_efficiency": 99.15836541917277,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 24,
+      "reward": 18.429441838042806,
+      "length": 163,
+      "coverage": 1.22,
+      "battery_efficiency": 99.07080882234851,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 25,
+      "reward": 33.63442310133043,
+      "length": 178,
+      "coverage": 1.03,
+      "battery_efficiency": 98.9793432659013,
+      "communication_reliability": 0.33333333333333337,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 26,
+      "reward": 25.558904400579802,
+      "length": 180,
+      "coverage": 1.08,
+      "battery_efficiency": 98.96446889210993,
+      "communication_reliability": 0.3333333333333333,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 27,
+      "reward": 30.88160740913105,
+      "length": 170,
+      "coverage": 1.1900000000000002,
+      "battery_efficiency": 99.02769064194726,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 28,
+      "reward": 20.871122289271593,
+      "length": 167,
+      "coverage": 1.24,
+      "battery_efficiency": 99.04743885791376,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 29,
+      "reward": 38.17395738455504,
+      "length": 185,
+      "coverage": 1.27,
+      "battery_efficiency": 98.93544532191909,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 30,
+      "reward": 21.636332234497484,
+      "length": 163,
+      "coverage": 1.15,
+      "battery_efficiency": 99.06461493556736,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 31,
+      "reward": 16.36330189284628,
+      "length": 137,
+      "coverage": 1.2,
+      "battery_efficiency": 99.22629118865902,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 32,
+      "reward": 18.70576742201966,
+      "length": 159,
+      "coverage": 1.2,
+      "battery_efficiency": 99.0935057988658,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 33,
+      "reward": 20.525638590576172,
+      "length": 166,
+      "coverage": 1.18,
+      "battery_efficiency": 99.04902765407336,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 34,
+      "reward": 18.95290914842764,
+      "length": 162,
+      "coverage": 1.2,
+      "battery_efficiency": 99.07845153350397,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 35,
+      "reward": 26.085703973055193,
+      "length": 162,
+      "coverage": 1.21,
+      "battery_efficiency": 99.07471588305677,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 36,
+      "reward": 20.81370090384712,
+      "length": 164,
+      "coverage": 1.2,
+      "battery_efficiency": 99.06281038931172,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 37,
+      "reward": 24.077674772991724,
+      "length": 179,
+      "coverage": 1.31,
+      "battery_efficiency": 98.97025012844533,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 38,
+      "reward": 17.920947483754496,
+      "length": 151,
+      "coverage": 1.18,
+      "battery_efficiency": 99.13806280632119,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 39,
+      "reward": 26.585354000687882,
+      "length": 170,
+      "coverage": 1.27,
+      "battery_efficiency": 99.02620000404627,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 40,
+      "reward": 26.237323227081124,
+      "length": 165,
+      "coverage": 1.29,
+      "battery_efficiency": 99.05650440655218,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 41,
+      "reward": 17.61680111549795,
+      "length": 157,
+      "coverage": 1.13,
+      "battery_efficiency": 99.10191793310793,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 42,
+      "reward": 20.936792469442736,
+      "length": 168,
+      "coverage": 1.2,
+      "battery_efficiency": 99.04043136573058,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 43,
+      "reward": 20.65946755532509,
+      "length": 159,
+      "coverage": 1.15,
+      "battery_efficiency": 99.09287770644713,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 44,
+      "reward": 16.645645764475823,
+      "length": 142,
+      "coverage": 1.01,
+      "battery_efficiency": 99.19539270757623,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 45,
+      "reward": 27.933228195289466,
+      "length": 166,
+      "coverage": 1.28,
+      "battery_efficiency": 99.05137467041844,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 46,
+      "reward": 26.183463193907755,
+      "length": 183,
+      "coverage": 1.17,
+      "battery_efficiency": 98.94733985741945,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 47,
+      "reward": 22.327264444959134,
+      "length": 151,
+      "coverage": 1.18,
+      "battery_efficiency": 99.14214864211345,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 48,
+      "reward": 18.15226612311211,
+      "length": 156,
+      "coverage": 1.3,
+      "battery_efficiency": 99.10747514815456,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    },
+    {
+      "episode": 49,
+      "reward": 20.05110125273943,
+      "length": 157,
+      "coverage": 1.15,
+      "battery_efficiency": 99.10446657795812,
+      "communication_reliability": 0.0,
+      "collision_count": 0,
+      "mission_success": true
+    }
+  ],
+  "analysis": {
+    "baseline_stats": {
+      "avg_reward": 15.245711906308244,
+      "std_reward": 34.25128694050753,
+      "min_reward": -162.67777979154675,
+      "max_reward": 38.268751290904724,
+      "avg_coverage": 1.1582000000000001,
+      "std_coverage": 0.08375416407558492,
+      "min_coverage": 1.01,
+      "max_coverage": 1.3599999999999999,
+      "avg_battery_efficiency": 98.96037462644634,
+      "std_battery_efficiency": 0.10593320644534052,
+      "min_battery_efficiency": 98.75920333892756,
+      "max_battery_efficiency": 99.1896470530978,
+      "avg_communication_reliability": 0.006666666666666666,
+      "std_communication_reliability": 0.04666666666666666,
+      "min_communication_reliability": 0.0,
+      "max_communication_reliability": 0.3333333333333333,
+      "mission_success_rate": 100.0,
+      "avg_collisions_per_episode": 6.92
+    },
+    "mcp_stats": {
+      "avg_reward": 15.88249160400901,
+      "std_reward": 31.89084515924177,
+      "min_reward": -142.67202815678326,
+      "max_reward": 38.17395738455504,
+      "avg_coverage": 1.1876,
+      "std_coverage": 0.07052829219540199,
+      "min_coverage": 1.01,
+      "max_coverage": 1.31,
+      "avg_battery_efficiency": 99.06268278378494,
+      "std_battery_efficiency": 0.06730334962308071,
+      "min_battery_efficiency": 98.92630436335317,
+      "max_battery_efficiency": 99.22629118865902,
+      "avg_communication_reliability": 0.013333333333333334,
+      "std_communication_reliability": 0.06531972647421809,
+      "min_communication_reliability": 0.0,
+      "max_communication_reliability": 0.33333333333333337,
+      "mission_success_rate": 100.0,
+      "avg_collisions_per_episode": 6.46
+    },
+    "improvements": {
+      "reward": {
+        "baseline": 15.245711906308244,
+        "mcp": 15.88249160400901,
+        "improvement_percent": 4.17677902884472
+      },
+      "coverage": {
+        "baseline": 1.1582000000000001,
+        "mcp": 1.1876,
+        "improvement_percent": 2.5384216888274795
+      },
+      "battery_efficiency": {
+        "baseline": 98.96037462644634,
+        "mcp": 99.06268278378494,
+        "improvement_percent": 0.10338295274728779
+      },
+      "communication_reliability": {
+        "baseline": 0.006666666666666666,
+        "mcp": 0.013333333333333334,
+        "improvement_percent": 100.00000000000003
+      }
+    }
+  },
+  "config": {
+    "num_episodes": 50,
+    "num_uavs": 3,
+    "simulation_time": 60.0
+  }
+}
