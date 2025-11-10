@@ -32,76 +32,49 @@
 % TITLE PAGE
 % ============================================
 \begin{document}
-
 \begin{titlepage}
+\enlargethispage{2cm}
 
 \begin{center}
 
-\vspace*{0.2cm}
-
-\textbf{\Large MCP-COORDINATED SWARM INTELLIGENCE: ADAPTIVE UAV PATH PLANNING FOR DYNAMIC DISASTER RESPONSE}\\[3pt]
-
-\vspace*{0.4 cm}
+\vspace*{-1cm}
+\textbf{\Large MCP-COORDINATED SWARM INTELLIGENCE: ADAPTIVE UAV PATH PLANNING FOR DYNAMIC DISASTER RESPONSE} \\
 
                           A Project Report Submitted \\
                      in Partial Fulfilment of the Requirements  \\
                      for the Degree of  \\
-
-\vspace{0.1 cm}
-
+                          \vspace{4.10 mm}
                    {\Large \bf Bachelor of Technology } \\
-
                    in \\
-
                    {\large \bf Computer Science and Engineering }\\
-
                     with Specialization in\\
-
                    {\large \bf Cyber Security } \\
-
-\vspace{0.15 cm}
-
-                   {\em  by} \\
-
-\vspace{0.1 cm}
+                      \vspace{3mm}
+                   {\em  by} \\ \vspace{1.5 mm}
 
 {\large \bf Anshumohan Acharya - 2022BCY0019 }\\
-
 {\large \bf Naini Sree Divya - 2022BCY0053 }\\
-
 {\large \bf Monish Dan - 2022BCY0029 }\\
-
 {\large \bf Sanjay Meena - 2022BCY0046 }\\
 
-\vspace{0.15 cm}
-
+%\includegraphics[width=12cm, height=12cm]{iiserlogo}
 \begin{figure}[h]
+% \includegraphics[width=15mm,height=10mm]{time_arma_gs.jpg}
   \begin{center}
-  \includegraphics[width=3.5cm, height=2cm]{logo2.jpg}
+  \includegraphics[width=4.3cm, height=2.5cm]{IIITK.jpg}
   \end{center}
 \end{figure}
-
-\vspace{0.1 cm}
-
-{\em\large to }\\
-
-\vspace{0.08 cm}
-
-{\bf \mbox{DEPARTMENT OF CSE-CYBER SECURITY}} \\
-
-{\bf \mbox{INDIAN INSTITUTE OF INFORMATION TECHNOLOGY}}\\
-
-{\bf KOTTAYAM-686635, INDIA}\\
-
-\vspace{0.1 cm}
-
+{\em to }\\%[8pt]
+{\bf \mbox{DEPARTMENT OF CSE-CYBER SECURITY}} \\%[3.5pt]
+{\bf \mbox{INDIAN INSTITUTE OF INFORMATION TECHNOLOGY}}\\%[3.5pt]
+{\bf KOTTAYAM-686635, INDIA}\\%[8pt]
 {\it November 2025}
 
 \end{center}
-
 \end{titlepage}
 
 \clearpage
+
 % --------------- Declaration  page -----------------------
 \pagenumbering{roman} \setcounter{page}{2}
 \begin{center}
@@ -121,6 +94,7 @@
 \hfill \textbf{Sanjay Meena}
 
 \clearpage
+
 
 % --------------- Certificate page -----------------------
 \pagenumbering{roman} \setcounter{page}{3}
@@ -498,14 +472,14 @@ Figure \ref{fig:coverage} shows the coverage percentage achieved by both methods
 
 \begin{figure}[h]
 \centering
-\includegraphics[width=0.8\textwidth]{image copy 2.png}
+\includegraphics[width=0.8\textwidth]{Coverage_Percent.png}
 \caption{Coverage percentage comparison across 50 episodes. MCP-coordinated approach consistently achieves higher coverage values, with peaks reaching 1.48\% compared to baseline's maximum of 1.32\%.}
 \label{fig:coverage}
 \end{figure}
 
 \begin{figure}[h]
 \centering
-\includegraphics[width=0.8\textwidth]{image copy.png}
+\includegraphics[width=0.8\textwidth]{Moving_Coverage.png}
 \caption{Moving average coverage (window=10) showing consistent superiority of MCP-coordinated approach. Values range from 1.23\% to 1.31\% compared to baseline's 1.14\% to 1.20\%.}
 \label{fig:coverage_ma}
 \end{figure}
@@ -538,7 +512,7 @@ Figure \ref{fig:rewards} illustrates episode rewards across training. The MCP-co
 
 \begin{figure}[h]
 \centering
-\includegraphics[width=0.8\textwidth]{image copy 3.png}
+\includegraphics[width=0.8\textwidth]{Episode_Reward.png}
 \caption{Episode rewards comparison. MCP-coordinated approach shows superior performance, especially in later training stages (episodes 45-50), achieving higher peak rewards and maintaining better final performance.}
 \label{fig:rewards}
 \end{figure}
@@ -547,7 +521,7 @@ The moving average rewards (Figure \ref{fig:rewards_ma}) reveal that MCP-coordin
 
 \begin{figure}[h]
 \centering
-\includegraphics[width=0.8\textwidth]{image copy 3.png}
+\includegraphics[width=0.8\textwidth]{Moving_avg.png}
 \caption{Moving average rewards (window=10) showing initial superiority (peak 25.2 at episode 13) and recovery capabilities of MCP-coordinated approach after exploration phases.}
 \label{fig:rewards_ma}
 \end{figure}
